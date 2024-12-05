@@ -6,5 +6,3 @@ def true_divide(first, second):
     else:
         print(first / second)
 
-result3 = true_divide(49, 7)
-result4 = true_divide(15, 0)
